@@ -31,13 +31,16 @@
 <section class="flex py-11 px-16 items-center">
 	<img src="/router.png" alt="marting router logo" class=" w-28 lg:w-40 mr-2 mb-11" />
 	<p class="  text-3xl lg:text-5xl font-bold">Marting Router</p>
-	<ul class="flex font-medium gap-5 ml-auto text-base lg:text-xl">
+
+	<ul class=" md:flex hidden font-medium gap-5 ml-auto text-base lg:text-xl">
 		{#each navItem as item}
 			<li class="uppercase cursor-pointer">{item.name}</li>
 		{/each}
 	</ul>
 
-	<Hamburger bind:open --color="black" />
+	<div class="md:hidden ml-auto block">
+		<Hamburger bind:open --color="black" />
+	</div>
 
 	<div
 		role="button"
@@ -47,7 +50,7 @@
 			open = false;
 		}}
 		class={classNames(
-			'absolute overflow-hidden transition-transform top-0 left-0 w-full h-[100vh] backdrop-blur-sm',
+			'fixed overflow-hidden transition-transform top-0 left-0 w-full h-[100vh] backdrop-blur-sm',
 			open ? 'translate-x-0' : 'translate-x-[100%]'
 		)}
 	>
