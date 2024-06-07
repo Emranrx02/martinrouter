@@ -28,9 +28,9 @@
 	}
 </script>
 
-<section class="flex py-11 px-16 items-center">
+<section class="flex py-5 sm:py-11 sm:px-16 items-center">
 	<img src="/router.png" alt="marting router logo" class=" w-28 lg:w-40 mr-2 mb-11" />
-	<p class="  text-3xl lg:text-5xl font-bold">Marting Router</p>
+	<p class=" uppercase text-xl sm:text-3xl lg:text-5xl font-bold">Marting Router</p>
 
 	<ul class=" md:flex hidden font-medium gap-5 ml-auto text-base lg:text-xl">
 		{#each navItem as item}
