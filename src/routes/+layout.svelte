@@ -13,9 +13,7 @@
 		rel="stylesheet"
 	/>
 </svelte:head>
-<section class="font-display bg-[#FEF5D7]">
-	<section class="max-w-[90rem] mx-auto">
-		<NavBar />
-		<slot />
-	</section>
+<section class="font-display">
+	<NavBar />
+	<slot />
 </section>
