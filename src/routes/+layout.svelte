@@ -14,6 +14,5 @@
 	/>
 </svelte:head>
 <section class="font-display">
-	<NavBar />
 	<slot />
 </section>

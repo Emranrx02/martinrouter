@@ -2,9 +2,9 @@
 	import ContentLayout from '$lib/utils/ContentLayout.svelte';
 </script>
 
-<section class="bg-[#FEE0C9]">
+<section class="">
 	<ContentLayout>
-		<section class="flex md:flex-row flex-col px-10 justify-center">
+		<section class="flex text-white md:flex-row flex-col px-10 justify-center">
 			<img
 				class=" md:max-w-[30rem] md:order-1 order-2 lg:max-w-[48rem]"
 				src="router2.png"
