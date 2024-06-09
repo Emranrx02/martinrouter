@@ -24,7 +24,7 @@
 						<img src="/router2.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
 							<p class="text-xl font-bold mb-3">$Router</p>
-							<p>Scam's can't beat Scams, only transparancy can</p>
+							<p>Scam's can't beat Scams, only transparency can</p>
 							<p>Belief in crypto is the first step</p>
 						</div>
 					</div>
