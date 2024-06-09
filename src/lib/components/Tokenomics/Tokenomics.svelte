@@ -6,10 +6,9 @@
 	<ContentLayout>
 		<section id="tokenomics" class="flex px-10 lg:flex-row flex-col gap-10 py-10">
 			<div class="lg:w-[45%] py-5 lg:py-0 text-center lg:text-left">
-				<p class="text-lg">
-					Injustice in crypto threatens the whole network , The time is right to embrace
-					decentralization
-				</p>
+				<h2 class="text-2xl mb-8 font-bold">
+					Injustice in crypto threatens the whole network <br /> The time is right to embrace decentralization
+				</h2>
 			</div>
 			<div class="space-y-10">
 				<div class="w-full flex-wrap gap-5 flex">
