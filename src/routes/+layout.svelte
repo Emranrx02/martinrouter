@@ -13,6 +13,6 @@
 		rel="stylesheet"
 	/>
 </svelte:head>
-<section class="font-display">
+<section class="font-display bg-[#FADBAD]">
 	<slot />
 </section>
