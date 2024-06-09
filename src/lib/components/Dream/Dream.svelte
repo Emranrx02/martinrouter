@@ -14,6 +14,7 @@
 					I have a dream of crypto freedom for all <br /> No Router = No connection = No CT
 				</p>
 			</div>
+			
 			<div
 				class="h-[20rem] bg-cover bg-center bg-no-repeat flex items-end justify-center rounded-tl-[30rem] mt-40"
 			></div>
