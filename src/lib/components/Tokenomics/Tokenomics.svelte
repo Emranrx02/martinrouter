@@ -23,7 +23,7 @@
 						</div>
 					</div>
 					<div class="w-full sm:w-[48%] shadow p-5 rounded-xl">
-						<img src="/router3.png" alt="router 3" class="w-36 ml-auto" />
+						<img src="/router2.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
 							<p class="text-xl font-bold mb-3">$Martin</p>
 							<p>The oldest Router in history, happens to have solana in it's name</p>
@@ -32,7 +32,7 @@
 				</div>
 				<div class="w-full flex-wrap gap-5 flex">
 					<div class="w-full sm:w-[48%] shadow p-5 rounded-xl">
-						<img src="/router3.png" alt="router 3" class="w-36 ml-auto" />
+						<img src="/router.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
 							<p class="text-xl font-bold mb-3">$Martin</p>
 							<p>The oldest Router in history, happens to have solana in it's name</p>
