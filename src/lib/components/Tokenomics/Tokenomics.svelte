@@ -6,7 +6,6 @@
 	<ContentLayout>
 		<section id="tokenomics" class="flex px-10 lg:flex-row flex-col gap-10 py-10">
 			<div class="lg:w-[45%] py-5 lg:py-0 text-center lg:text-left">
-				<h2 class="text-7xl mb-8 font-bold">Tokenomics</h2>
 				<p class="text-lg">
 					Injustice in crypto threatens the whole network , The time is right to embrace
 					decentralization
