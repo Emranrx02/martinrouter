@@ -1,5 +1,8 @@
 <script>
 	import ContentLayout from '$lib/utils/ContentLayout.svelte';
+	const handleClick = () => {
+		document.getElementById('dream')?.scrollIntoView({ behavior: 'smooth' });
+	};
 </script>
 
 <section class="">
@@ -17,6 +20,7 @@
 					Martin $Router King
 				</h1>
 				<button
+					on:click={handleClick}
 					class="outline-2 md:ml-auto outline px-7 py-2 rounded-full text-base lg:text-lg hover:bg-black hover:text-white"
 					>Let's Begin</button
 				>
