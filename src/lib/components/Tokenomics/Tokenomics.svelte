@@ -8,9 +8,8 @@
 			<div class="lg:w-[45%] py-5 lg:py-0 text-center lg:text-left">
 				<h2 class="text-7xl mb-8 font-bold">Tokenomics</h2>
 				<p class="text-lg">
-					Basenji boasts a straightforward tokenomic structure, built to endure for eternity. Just
-					like the timeless legacy of ancient Egypt, $BENJI is poised to withstand the sands of
-					time.
+					Injustice in crypto threatens the whole network , The time is right to embrace
+					decentralization
 				</p>
 			</div>
 			<div class="space-y-10">
@@ -19,14 +18,16 @@
 						<img src="/router3.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
 							<p class="text-xl font-bold mb-3">$Martin</p>
-							<p>The oldest Router in history, happens to have solana in it's name</p>
+							<p>What are you doing for the decentralized web?</p>
+							<p>FUD can't beat FUD, Only truth can</p>
 						</div>
 					</div>
 					<div class="w-full sm:w-[48%] shadow p-5 rounded-xl">
 						<img src="/router2.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
 							<p class="text-xl font-bold mb-3">$Martin</p>
-							<p>The oldest Router in history, happens to have solana in it's name</p>
+							<p>Scam's can't beat Scams, only transparancy can</p>
+							<p>Belief in crypto is the first step</p>
 						</div>
 					</div>
 				</div>
@@ -35,7 +36,7 @@
 						<img src="/router.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
 							<p class="text-xl font-bold mb-3">$Martin</p>
-							<p>The oldest Router in history, happens to have solana in it's name</p>
+							<p>Silence on decentralization ends our freedom</p>
 						</div>
 					</div>
 				</div>

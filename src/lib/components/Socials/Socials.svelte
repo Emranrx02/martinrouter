@@ -10,8 +10,7 @@
 		<section class="text-right order-1 md:order-2">
 			<h3 class="text-3xl sm:text-5xl font-medium mb-7">All you can eat is Treat</h3>
 			<p class=" text-xl sm:text-2xl">
-				Don't miss out on the joy of owning plenty of $MARTIN tokens {'–'} it's like discovering the
-				perfect router treat on Solana.
+				Accept dips,but never lose hope in crypto. The blockchain bends toward decentralization
 			</p>
 
 			<p class="text-3xl mt-7">Contract:</p>

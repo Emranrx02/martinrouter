@@ -6,7 +6,7 @@
 
 	const navItem = [
 		{ name: 'Socials', slug: 'socials' },
-		{ name: 'Dream?', slug: 'dream' },
+		{ name: 'I have a Dream?', slug: 'dream' },
 		{ name: 'Tokenomics', slug: 'tokenomics' }
 	];
 
