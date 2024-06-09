@@ -17,7 +17,7 @@
 					<div class=" w-full sm:w-[48%] shadow p-5 rounded-xl">
 						<img src="/router3.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
-							<p class="text-xl font-bold mb-3">$Martin</p>
+							<p class="text-xl font-bold mb-3">$Router</p>
 							<p>What are you doing for the decentralized web?</p>
 							<p>FUD can't beat FUD, Only truth can</p>
 						</div>
@@ -25,7 +25,7 @@
 					<div class="w-full sm:w-[48%] shadow p-5 rounded-xl">
 						<img src="/router2.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
-							<p class="text-xl font-bold mb-3">$Martin</p>
+							<p class="text-xl font-bold mb-3">$Router</p>
 							<p>Scam's can't beat Scams, only transparancy can</p>
 							<p>Belief in crypto is the first step</p>
 						</div>
@@ -35,7 +35,7 @@
 					<div class="w-full sm:w-[48%] shadow p-5 rounded-xl">
 						<img src="/router.png" alt="router 3" class="w-36 ml-auto" />
 						<div class=" ">
-							<p class="text-xl font-bold mb-3">$Martin</p>
+							<p class="text-xl font-bold mb-3">$Router</p>
 							<p>Silence on decentralization ends our freedom</p>
 						</div>
 					</div>
