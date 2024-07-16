@@ -16,10 +16,8 @@
 			<p class="text-3xl mt-7">Contract:</p>
 			<p class=" text-lg sm:text-2xl">0x000000000000000000000000000000</p>
 			<div class="flex gap-3 mt-9 justify-end">
-				<a href="#" target="_blank"
-					><img class="w-16 h-16" src="/telegram.svg" alt="telegram icon" /></a
-				>
-				<a href="#" target="_blank">
+				<a href="/"><img class="w-16 h-16" src="/telegram.svg" alt="telegram icon" /></a>
+				<a href="/">
 					<img class="w-16 h-16" src="/twitter.png" alt="twitter icon" />
 				</a>
 			</div>
